@@ -1,7 +1,7 @@
 # Projeto: Assistente de Delivery utilizando AWS Step Functions e Amazon Bedrock.
 
 ## 📚 Descrição:
->***O repositório é um Lab. (laboratório) com intenção de aplicar conceitos dos serviços AWS (Amazon Web Service) como o Amazon Bedrock, Step Functions, entre outros no desenvolvimento de uma ferramenta focada nos pedidos para um delivery, ao qual proporciona automação e governança dos fluxos. Assim essa ferramenta passe por todos os processos. Porém de forma didática, ao não contemplar as práticas efetivas nessas ferramentas.***
+>***O repositório é um Lab. (laboratório) com intenção de aplicar conceitos dos serviços AWS (Amazon Web Service) como o Amazon Bedrock, Step Functions, entre outros no desenvolvimento de uma ferramenta focada nos pedidos para um delivery, ao qual proporciona automação e governança dos fluxos. Assim essa ferramenta passa por todos os processos. Porém de forma didática, ao não contemplar as práticas efetivas nessas ferramentas.***
 
 ## ✅ Tópicos de Construção:
 - *Amazon Bedrock;*
