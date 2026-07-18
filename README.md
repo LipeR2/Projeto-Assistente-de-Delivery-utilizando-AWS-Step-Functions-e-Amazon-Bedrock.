@@ -75,7 +75,7 @@ graph TD;
 ```
 - Em Síntese:
 ````
-  O strar com o prompt das comidas entra, é processado por alguma LLM escolhida no Amazon Bedrock, e retona um prompt de saída todos em formatdo de arquivo JSON. O que é feito para os prompts seguintes até o retorno final, ilustrada pelo diagrama.
+  O start com o prompt das comidas entra, é processado por alguma LLM escolhida no Amazon Bedrock, e retona um prompt de saída todos em formatdo de arquivo JSON. O que é feito para os prompts seguintes até o retorno final, ilustrada pelo diagrama.
 ````
 
 ## 📈🗂️🧑🏻‍💻 Atividades Relacionadas:
